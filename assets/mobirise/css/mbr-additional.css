@@ -858,8 +858,8 @@ body {
   display: none;
 }
 .cid-rcNGfBA9sC {
-  padding-top: 120px;
-  padding-bottom: 90px;
+  padding-top: 160px;
+  padding-bottom: 120px;
   background-image: url("../../../assets/images/mbr-1920x1080.jpg");
   direction: rtl;
 }
@@ -1209,7 +1209,7 @@ body {
   padding-top: 0px;
   padding-bottom: 90px;
   background-color: #ffffff;
-  direction: rt;
+  direction: rtl;
 }
 .cid-rcNLwEq3hJ a {
   color: #232323;
@@ -1378,6 +1378,7 @@ body {
   padding-top: 30px;
   padding-bottom: 30px;
   background: linear-gradient(0deg, #efefef, #8fc843);
+  direction: rtl;
 }
 .cid-rcNN7vdLuJ a {
   text-align: center;
